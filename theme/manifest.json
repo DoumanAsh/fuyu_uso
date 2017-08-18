@@ -1,0 +1,31 @@
+{
+    "manifest_version": 2,
+    "name": "フユウソ",
+    "version": "1",
+    "description": "フユウソ -Snow World End- Theme",
+    "theme": {
+        "images": {
+            "theme_frame": "images\/theme_frame.png",
+            "theme_toolbar": "images\/theme_toolbar.png",
+            "theme_tab_background": "images\/theme_tab_background.png",
+            "theme_ntp_background": "images\/theme_ntp_background.png"
+        },
+        "colors": {
+            "frame": [39,43,54],
+            "toolbar": [39,43,54],
+            "tab_text": [201,212,234],
+            "tab_background_text": [201,212,234],
+            "bookmark_text": [201,212,234],
+            "ntp_background": [201,212,234],
+            "ntp_text": [39,43,54],
+            "button_background": [39,43,54,1]
+        },
+        "tints": {
+            "buttons": [0.61,0.44,0.85]
+        },
+        "properties": {
+            "ntp_background_alignment": "right bottom",
+            "ntp_background_repeat": "no-repeat"
+        }
+    }
+}
